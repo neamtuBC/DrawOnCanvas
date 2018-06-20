@@ -1,0 +1,23 @@
+{
+  "name": "DrawOnCanvas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w sass/ -o css/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neamtuBC/DrawOnCanvas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neamtuBC/DrawOnCanvas/issues"
+  },
+  "homepage": "https://github.com/neamtuBC/DrawOnCanvas#readme",
+  "dependencies": {
+    "node-sass": "^4.9.0"
+  }
+}
